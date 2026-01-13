@@ -1,0 +1,15 @@
+200, 1245639, PEDRO, Calle 2, 18/8/2001
+300, 7654321, MARIA, Calle 10, 2/2/2002
+402, 7634524, PEPE3, CALLE10, 14/14/2014
+403, 1345264, PEPE, calle11, 4/1/1993
+500, 5468921, JOSE, Calle Bermejo, 15/10/1995
+600, 7456293, RICARDO, calle 9, 23/12/2000
+900, 9382942, jose carlos, calle 10, 23/4/1995
+350, 1325467, pepe jose, av san martin, 4/1/2001
+150, 1930213, carmen, av san simon, 12/3/2020
+700, 9876533, karol, calle daniel, 10/12/2012
+280, 1389420, jaime, calle ignacio, 16/11/1992
+1000, 382914, jp rodriguez, calle comercio, 17/7/2004
+320, 123456, karlos, calle12, 2/1/2001
+321, 435278, lilo, gamboa, 2/8/2003
+322, 8542013, gabriel, colinas, 1/7/2000

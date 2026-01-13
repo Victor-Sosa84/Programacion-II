@@ -39,3 +39,18 @@
 
 # debug information files
 *.dwo
+
+# --- Extensiones específicas de RAD Studio / C++ Builder ---
+*.dblocal
+*.screenshot
+*.res
+*.otares
+*.dfm.~*
+*.h.~*
+*.cpp.~*
+*.cbproj.local
+*.fmx.~*
+
+# Carpetas de pre-compilado (muy pesadas)
+__astcache/
+__history/
